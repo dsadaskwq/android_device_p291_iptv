@@ -1,0 +1,42 @@
+custom_name = amlogic-remote-1
+custom_code = 0xfb04
+release_delay = 80
+
+key_begin
+	0x15 158  #BACK     4
+	0x00 11   #0        7
+	0x01 2    #1        8
+	0x02 3    #2        9
+	0x03 4    #3       10
+	0x04 5    #4       11
+	0x05 6    #5       12
+	0x06 7    #6       13
+	0x07 8    #7       14
+	0x08 9    #8       15
+	0x09 10   #9       16
+	0xda 228  #POUND   18
+	0x0a 103  #DPAD_UP        19
+	0x0b 108  #DPAD_DOWN      20
+	0x10 105  #DPAD_LEFT      21
+	0x11 106  #DPAD_RIGHT     22
+	0x19 97   #DPAD_CENTER    23
+	0x1a 115  #VOLUME_UP      24
+	0x1b 114  #VOLUME_DOWN    25
+	0x0d 179  #POWER       26
+	0xd0 14   #DEL         67
+	0x44 125  #MENU 82
+	0x0c 113  #VOLUME_MUTE          164
+	0x4c 166  #CHANNEL_UP    166
+	0x4d 167  #CHANNEL_DOWN  167
+	0x8d 176  #SETTINGS      176
+	0x40 136  #PROG_RED F1 Live         183
+	0x41 137  #PROG_GREEN  F2 TVOD      184
+	0x42 138  #PROG_YELLOW  F3 VOD      185
+	0x43 139  #PROG_BLUE  F4 Service    186
+	0x0e 92   # 上页PAGE_UP
+	0x0f 93   # 下页PAGE_DOWN
+	0x12 239  # radio
+	0x13 222  #AUDIO_TRACK
+	0x16 229  #ENTER_EPG
+    0xd9 119
+key_end
