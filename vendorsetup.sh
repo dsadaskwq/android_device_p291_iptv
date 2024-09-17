@@ -5,6 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_p291_iptv-user
-add_lunch_combo omni_p291_iptv-userdebug
 add_lunch_combo omni_p291_iptv-eng
